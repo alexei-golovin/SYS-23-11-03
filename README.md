@@ -52,6 +52,8 @@
 
 ### Ответ на задание 2
 
+![](https://github.com/alexei-golovin/SYS-23-11-03/blob/main/files/202.jpg)
+
 ---
 
 ### Задание 3. Logstash
