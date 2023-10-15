@@ -40,6 +40,8 @@
 
 ### Ответ на задание 1
 
+![](https://github.com/alexei-golovin/SYS-23-11-03/blob/main/files/101.jpg)
+
 ---
 
 ### Задание 2. Kibana
