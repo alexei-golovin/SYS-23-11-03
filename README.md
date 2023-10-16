@@ -64,6 +64,8 @@
 
 ### Ответ на задание 3
 
+![](https://github.com/alexei-golovin/SYS-23-11-03/blob/main/files/301.jpg)
+
 ---
 
 ### Задание 4. Filebeat. 
